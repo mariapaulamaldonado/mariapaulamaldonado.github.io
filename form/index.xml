@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forms on MPMM</title>
+    <link>https://mariapaulamaldonado.github.io/form/</link>
+    <description>Recent content in Forms on MPMM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mariapaulamaldonado.github.io/form/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://mariapaulamaldonado.github.io/contact/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mariapaulamaldonado.github.io/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder **</description>
+    </item>
+    
+  </channel>
+</rss>
